@@ -1,0 +1,4 @@
+C:\Users\Kovar\Documents\GitHub\Klassengenerator\bin\Debug\Klassen generator.exe
+C:\Users\Kovar\Documents\GitHub\Klassengenerator\bin\Debug\Klassen generator.pdb
+C:\Users\Kovar\Documents\GitHub\Klassengenerator\obj\x86\Debug\Klassen generator.exe
+C:\Users\Kovar\Documents\GitHub\Klassengenerator\obj\x86\Debug\Klassen generator.pdb
